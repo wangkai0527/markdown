@@ -2,6 +2,11 @@
 
 # Camera
 
+Camera 采用建造者模式
+
+
+
+
 https://source.android.google.cn/docs/core/camera?hl=zh-cn
 
 https://developer.android.google.cn/guide/topics/media/camera?hl=zh-cn

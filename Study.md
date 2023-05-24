@@ -112,8 +112,16 @@ https://www.yanbinghu.com/
 [玩安卓_鸿洋](https://wanandroid.com/)
 http://gityuan.com/
 https://github.com/jeanboydev?tab=repositories
+https://juejin.cn/user/3712427518335047/posts
+https://lioil.win/
+https://ghcljx72eo.feishu.cn/wiki/wikcnKTdZcbHZXy4IBeOlCDxaab?table=tblm8HQ9jhbUm1ZN&view=vewrcihKOZ
 《深入理解Android内核设计思想》
 《Android系统源代码情景分析》
+
+分布式系统：
+Google Fuchsia(Flutter开发)         物联网
+鸿蒙
+
 
 
 ## Python

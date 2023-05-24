@@ -264,7 +264,7 @@ Git 可以理解 kdiff3，tkdiff，meld，xxdiff，emerge，vimdiff，gvimdiff�
 
 
 ## Git流程
-![](Git流程图.png)
+![](Git流程图.drawio.png)
 
 
 ## 下载代码

@@ -9,6 +9,7 @@
 ## 快捷键
 文件-首选项-键盘快捷方式
 例如：
+                                                Ctrl+P                  按文件名搜索
 Add Selection To Next Find Match                Ctrl+D                  选中
 Cut                                             Ctrl+X                  剪切
 Find                                            Ctrl+F                  查找

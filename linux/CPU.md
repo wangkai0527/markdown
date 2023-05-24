@@ -54,6 +54,10 @@ https://github.com/zhaobozhen/LibChecker
 
 # GPU
 
+32个图层
+
+
+
 ## CUDA
 https://cn.bing.com/search?q=CUDA&form=QBLH&sp=-1&pq=cuda&sc=10-4&qs=n&sk=&cvid=0064B7E1CF3342AF906DEE5B39A575D3&ghsh=0&ghacc=0&ghpl=
 
@@ -64,7 +68,20 @@ https://cn.bing.com/search?q=CUDA&form=QBLH&sp=-1&pq=cuda&sc=10-4&qs=n&sk=&cvid=
 
 
 
+# TPU
 
+
+# CPU GPU TPU 的区别
+
+https://www.cnblogs.com/Renyi-Fan/p/9720941.html
+
+
+https://zhuanlan.zhihu.com/p/154058171
+
+https://zhuanlan.zhihu.com/p/137192727
+
+
+https://zhuanlan.zhihu.com/p/156171120
 
 
 
